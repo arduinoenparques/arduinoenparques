@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
                                                 Bienvenidos
                                                 
-Este espacio es para la creación y combinación de librerías para el uso educativo de una asignatura optativa enfocada a la tarjeta Arduino y la Raspberry.De igual forma, este espacio se usa para actividades relacionadas con un servicio social llamado Arduino en parques.
-
-Las actividades que se realizan se comparten desde el enlace https://www.arduinoenparques.org
+En este espacio creamos y combinamos librerías educativas para la materia optativa de Arduino y Raspberry Pi. También coordinamos las actividades del servicio social "Arduino en Parques". Puedes conocer más sobre nuestro trabajo y seguir los proyectos en https://www.arduinoenparques.org
 
 <img width="1920" height="1080" alt="lago" src="https://github.com/user-attachments/assets/77477121-7727-4a6c-a693-c876596535b6" />
